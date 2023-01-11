@@ -1,9 +1,10 @@
 # -*- coding: utf-8 -*-
 """
-Credit Score Classification-Web Application
+Created on Wed Jan 11 18:59:35 2023
 
-@author: JINCY
+@author: athir
 """
+
 # import necessary libraries
 import numpy as np
 from flask import Flask,request,render_template
